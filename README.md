@@ -2,10 +2,6 @@
 
 An interactive business intelligence dashboard built in Microsoft Excel to analyze retailer and beverage brand performance across sales, margins, and geographic distribution.
 
-This project demonstrates strong skills in data analysis, business insight generation, and dashboard design using Excel.
-
----
-
 ## 📌 Project Overview
 
 The objective of this project is to evaluate retailer performance and identify business opportunities using structured sales and operational data.
